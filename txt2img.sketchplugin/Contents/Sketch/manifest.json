@@ -1,0 +1,31 @@
+{
+  "commands" : [
+    {
+      "script" : "txt2img.js",
+      "handler" : "getImage",
+      "shortcut" : "command alt g",
+      "name" : "Run",
+      "identifier" : "run"
+    },
+    {
+      "script" : "txt2img.js",
+      "handler" : "changeAPI",
+      "name" : "Settings",
+      "identifier" : "settings"
+    }
+  ],
+  "menu" : {
+    "title" : "txt2img",
+    "items" : [
+      "run",
+      "settings"
+    ]
+  },
+  "identifier" : "com.wuwacorp.sketch.txt2img",
+  "version" : "0.1",
+  "description" : "Replace selected texts or shapes with images from various APIs",
+  "author" : "Ben Benhorin",
+  "authorEmail" : "ben@wuwa.org",
+  "name" : "txt2img"
+}
+
