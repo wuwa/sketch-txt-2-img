@@ -11,7 +11,7 @@ Sketch plugin to replace selected texts or shapes with images from various APIs
 The fine print: in the Plugins > txt2img > Settings you can choose a different source for the icons / images.
 It should be easy enough to add some more...
 
-![alt text](http://wuwa.github.com/copy2all.gif "demo")
+![alt text](http://wuwa.github.com/txt2image.gif "demo")
 
 # Installation
 
