@@ -4,12 +4,16 @@ Sketch plugin to replace selected texts or shapes with images from various APIs
 
 # Usage
 
-- Write some text / name your shape layer
-- Hit the shortcut ```⌘``` + ```⌥``` + ```g```
-- Boom!
+1. Write some text / name your shape layer
+2. Hit the shortcut ```⌘``` + ```⌥``` + ```g```
+3. Boom!
 
-The fine print: in the Plugins > txt2img > Settings you can choose a different source for the icons / images.
-It should be easy enough to add some more...
+> The fine print:
+> - Select as many layers as you wish to. If a text layer - it will be substituted with an image. If a shape layer - the shape will be filled with the image. If a group - nothing will happen...
+> - Works with SVG or BMP sources.
+> - Plugins > txt2img > Settings you can choose a different source for the icons / images. It should be easy enough to add some more...
+> - Hit the command again and again and you will get a different image every time (almost). 
+
 
 ![demo gif](http://wuwa.github.com/txt2img.gif "demo")
 
