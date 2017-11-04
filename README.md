@@ -9,7 +9,7 @@ Sketch plugin to replace selected texts or shapes with images from various APIs
 3. Boom!
 
 
-![demo gif](http://wuwa.github.com/txt2img.gif "demo")
+![demo gif](http://wuwa.github.com/txt2image.gif "demo")
 
 
 > The fine print:
